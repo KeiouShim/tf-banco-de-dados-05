@@ -3,5 +3,5 @@ Conteúdo
 Lista de contatos
 Faturamento total
 Agenda de consultas
-Pacientes ✨
+Pacientes
 Especialidade mais popular
